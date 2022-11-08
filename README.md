@@ -1,0 +1,2 @@
+# cbt-medical_ss_to_doc
+CBT-Medicalで問題一括登録用のwordファイルをスプレッドシートから作成するGASスクリプト
